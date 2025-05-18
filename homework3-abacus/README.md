@@ -1,4 +1,4 @@
-# physical-design-homework3-abacus
+# homework3-abacus
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ysnanako/physical-design-homework3-abacus)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ysnanako/physical-design-homework3-abacus)
