@@ -1,31 +1,5 @@
 # homework3-abacus
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ysnanako/physical-design-homework3-abacus)
-![GitHub last commit](https://img.shields.io/github/last-commit/ysnanako/physical-design-homework3-abacus)
-
-This project is part of the **National Cheng Kung University (NCKU) - VLSI/CAD Group** course **"Physical Design for Nanometer IC"**, focusing on **Legalization** using the **Abacus algorithm**. The program reads **global placement results** and adjusts **cell positions** to eliminate overlaps while minimizing **cell displacement**.
-
-## 📖 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Input Format](#input-format)
-- [Output Format](#output-format)
-- [Project Structure](#project-structure)
-- [Parsing & Placement Flow](#parsing--placement-flow)
-- [Example Execution](#example-execution)
-- [Validation & HPWL Calculation](#validation--hpwl-calculation)
-- [Generated Plots](#generated-plots)
-- [Contribution Guide](#contribution-guide)
-- [Contact Information](#contact-information)
-
-## 📝 Project Overview
-
-Modern placement tools consist of **three main steps**:
-
-1. **Global Placement** - Determines **approximate** cell locations.
-2. **Legalization** - Ensures **valid cell placement** while keeping the design compact.
-3. **Detailed Placement** - Fine-tunes **wirelength optimization**.
-
 This project implements **legalization** using the **Abacus algorithm**, which:
 
 - **Minimizes cell displacement** from global placement.
@@ -61,18 +35,18 @@ After execution, the program generates:
 ## 🧰 Project Structure
 
 ```
-📂 physical-design-homework3-abacus/
+📂 homework3-abacus/
 │── 📂 src/ # (main.cpp, parser.cpp, abacus.cpp, and headers)
-│── 📂 obj/ # (ignored)
-│── 📂 plt/ # (ignored in Git, automatically generated)
-│── 📂 dat/ # (ignored in Git due to large size, automatically generated)
-│── 📂 legal/ # (ignored in Git due to large size, automatically generated)
-│── 🖥️ HW3_StudentID # (ignored)
+│── 📂 obj/  
+│── 📂 plt/  
+│── 📂 dat/  
+│── 📂 legal/  
+│── 🖥️ HW3_StudentID  
 │── 🔧 Makefile
-│── 📜 README.md # This file
-│── 📜 .gitignore
+│── 📜 README.md  
+│── 📜 .gitignore  
 
-../📂 benchmarks/ # (located outside the repo)
+../📂 benchmarks/  
 ```
 
 ## 🔹 **Parsing & Placement Flow**
@@ -153,23 +127,11 @@ To validate legalization correctness and measure **Half-Perimeter Wirelength (HP
 
 Below are the generated plots from the `gnuplot` output:
 
-**superblue1 row**  
-![superblue1_row](https://github.com/user-attachments/assets/0a4e474c-1902-462e-86cb-83aa7ba7b1e9)  
-**superblue1 init**  
-![superblue1_init](https://github.com/user-attachments/assets/ddd280f1-e584-4ec1-b7e1-fc754b2f3243)  
-**superblue1 legal**  
-![superblue1](https://github.com/user-attachments/assets/0f6c2a63-cbce-4eee-82ce-d1410df6f052)  
+  - superblue1 row
+  <img src="https://github.com/user-attachments/assets/f884e112-97ab-4bb5-8caf-6eed0c092c6f" width="50%" height="50%">
 
-## 🤝 Contribution Guide
+  - superblue1 init
+  <img src="https://github.com/user-attachments/assets/924b9c2c-e258-491e-9ef9-4f55ddb5a458" width="50%" height="50%">
 
-1. Fork this repository.
-2. Create a new branch (`git checkout -b feature-xyz`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the remote branch (`git push origin feature-xyz`).
-5. Submit a Pull Request.
-
-## 📬 Contact Information
-
-- 📧 Email: [m16131056@gs.ncku.edu.tw](mailto\:m16131056@gs.ncku.edu.tw)
-- 🌎 University: [National Cheng Kung University (NCKU)](https://www.ncku.edu.tw)
-- 📖 Course: Physical Design for Nanometer IC, Fall 2024
+  - superblue1 legal
+  <img src="https://github.com/user-attachments/assets/aa5192d5-ad49-432f-a5fd-59e4827169d9" width="50%" height="50%">  
