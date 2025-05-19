@@ -92,18 +92,18 @@ gnuplot dat/adaptec1/adaptec1.plt
 ## 🖼️ Sample Visualization
 
   - adaptec1
-  <img src="https://github.com/user-attachments/assets/2a8ac49e-d25f-46d1-a576-a89352dee4da" width="50%" height="50%">
+  <img src="https://github.com/user-attachments/assets/2a8ac49e-d25f-46d1-a576-a89352dee4da" width="50%" height="50%">  
   - adaptec2
-  <img src="https://github.com/user-attachments/assets/20c2e3fe-e268-49d3-bdda-7990c3bfbdd5" width="50%" height="50%">
+  <img src="https://github.com/user-attachments/assets/20c2e3fe-e268-49d3-bdda-7990c3bfbdd5" width="50%" height="50%">  
   - adaptec3
-  <img src="https://github.com/user-attachments/assets/cb919408-aacf-4533-bdd5-d4397e2af5c4" width="50%" height="50%">
+  <img src="https://github.com/user-attachments/assets/cb919408-aacf-4533-bdd5-d4397e2af5c4" width="50%" height="50%">  
   - adaptec4
-  <img src="https://github.com/user-attachments/assets/82202eec-832c-4bfc-b753-97dd0ed9dd6e" width="50%" height="50%">
+  <img src="https://github.com/user-attachments/assets/82202eec-832c-4bfc-b753-97dd0ed9dd6e" width="50%" height="50%">  
   - bigblue1
-  <img src="https://github.com/user-attachments/assets/e91da0c4-cc6c-4ee9-a33d-3b3bf54763ac" width="50%" height="50%">
+  <img src="https://github.com/user-attachments/assets/e91da0c4-cc6c-4ee9-a33d-3b3bf54763ac" width="50%" height="50%">  
   - bigblue2
-  <img src="https://github.com/user-attachments/assets/be7889b4-2025-4a89-a50a-d94360b0d3d3" width="50%" height="50%">
+  <img src="https://github.com/user-attachments/assets/be7889b4-2025-4a89-a50a-d94360b0d3d3" width="50%" height="50%">  
   - bigblue3
-  <img src="https://github.com/user-attachments/assets/59d8144e-a757-4dc0-987d-dc4f1bca5d34" width="50%" height="50%">
+  <img src="https://github.com/user-attachments/assets/59d8144e-a757-4dc0-987d-dc4f1bca5d34" width="50%" height="50%">  
   - bigblue4
   <img src="https://github.com/user-attachments/assets/5654ad12-a2d9-4193-ab69-b6fea60232e2" width="50%" height="50%">  
