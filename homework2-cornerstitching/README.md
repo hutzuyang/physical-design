@@ -104,7 +104,12 @@ The tester will:
 
 ## 🖼️ Visualization
 
-Visual outputs can be generated via:
+  - fixed
+  <img src="https://github.com/user-attachments/assets/719a20f3-2a6f-4b63-9563-4b557eb30de7" width="50%" height="50%">
 
-* **MATLAB** script (`.m`) – Draws colored blocks for placed/fixed macros.
-* **Gnuplot** scripts (`.plt`) – Optional row/chip/pad visualization.
+  - placed
+  <img src="https://github.com/user-attachments/assets/208ee7d2-4b4e-41da-a867-f5fa30b7e194" width="50%" height="50%">
+
+  - placed
+  <img src="https://github.com/user-attachments/assets/36181011-fd95-4a06-9ab1-52aebe69bcda" width="50%" height="50%">
+
